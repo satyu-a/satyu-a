@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**satyu-a/satyu-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Satyam
+<a href="www.linkedin.com/in/satyam-bankar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+I used to work as a web developer, but over time I found myself getting more interested in the security side of things—how systems are protected, how attackers think, and how to defend against them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I’m transitioning into cybersecurity, learning and building along the way.  🚀
+
+"**Ex-web dev, now chasing cyber threats instead of bugs.**"
+
+## Objective
+
+I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+This GitHub repo is where I’ll be sharing projects, experiments, and notes from my journey. Still a coder at heart, just pointing my skills in a new direction.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
