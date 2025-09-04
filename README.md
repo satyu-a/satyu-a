@@ -18,8 +18,8 @@ This GitHub repo is where I’ll be sharing projects, experiments, and notes fro
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/satyu-a/SOC-Detection-Lab.git">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/satyu-a/SOC-Detection-Lab.git">SOC Detection Lab</a>|
+
 
 
 ## Tools
@@ -40,4 +40,4 @@ This GitHub repo is where I’ll be sharing projects, experiments, and notes fro
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/satyu-a/SOC-Detection-Lab.git">SOC Detection Lab</a>
